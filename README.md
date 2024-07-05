@@ -22,8 +22,8 @@ Dünyada tükenmiş olan önemli elementleri uzayda aramaları için gönderilen
 - Sprint board update: Sprint board screenshotları:
 
 ![Sprint1](https://github.com/emreongi/Team20/assets/109675720/e6811276-a7aa-4eae-8f3b-62968edb7125)
-![Screenshot 2024-07-05 221219](https://github.com/emreongi/Team20/assets/109675720/7d888d04-09ea-4665-883f-46f39a924e25)
-![Screenshot 2024-07-05 221245](https://github.com/emreongi/Team20/assets/109675720/d76f9526-b3d7-48e7-a353-5eb253c6232c)
+![Screenshot_2024-07-05_224743](https://github.com/emreongi/Team20/assets/109675720/0bbb80db-f69b-496b-a2a0-9442360da498)
+![Screenshot_2024-07-05_225344](https://github.com/emreongi/Team20/assets/109675720/93b09543-5a69-44a7-bdf9-b2a9db165025)
 ![Screenshot 2024-07-05 221138](https://github.com/emreongi/Team20/assets/109675720/d451b119-e6ef-401e-a7ef-726526233bd8)
 ![Screenshot 2024-07-05 221002](https://github.com/emreongi/Team20/assets/109675720/ced88e8a-f382-46a9-9bc5-30d20726bffc)
 - Sprint Review: Gezegen yer çekimi oluşturuldu. Gezegen ve atmosfer tasarlandı. Kayıt, login ve oda oluşturma sistemlerine başlandı. Karaktere hareket verildi.  Sprint Review katılımcıları: Emre Öngi, Enes Efe Tokta, Esmanur Yıldırım, Evsa Gökçe Renk
