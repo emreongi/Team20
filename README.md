@@ -1,5 +1,5 @@
 # Team20
-Takım Unity 20
+Shinars
 # Ürün İle İlgili Bilgiler
 ## Takım Elemanları
 | İsim   | Ünvan  |
@@ -9,7 +9,7 @@ Takım Unity 20
 | **Esmanur Yıldırım**     | Developer  |
 | **Evsa Gökçe Renk**     | Designer  |
 # Ürün İsmi
---no name--
+The Other Planets
 # Ürün Açıklaması
 Dünyada tükenmiş olan önemli elementleri uzayda aramaları için gönderilen 5 kişilik bir keşif birliği, önlerine çıkan bütün engelleri aşarak elementleri dünyaya ulaştırmak zorundadırlar. Uğradıkları gezegenlerde birçok farklı yoldan düşmanları atlatarak elementleri toplamaları gerekmektedir. Çevrimiçi bir şekilde karşılarına çıkan düşmanları altetmeye çalışacak olan ekip zorlu şartları atlatıp dünyaya dönmeleri gerekmektedir.
 -	Keşif: Oyuncular, gezegenlerde saklanmış olan elementleri bulmalıdırlar.
