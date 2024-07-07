@@ -27,4 +27,4 @@ Dünyada tükenmiş olan önemli elementleri uzayda aramaları için gönderilen
 ![Screenshot 2024-07-05 221138](https://github.com/emreongi/Team20/assets/109675720/d451b119-e6ef-401e-a7ef-726526233bd8)
 ![Screenshot 2024-07-05 221002](https://github.com/emreongi/Team20/assets/109675720/ced88e8a-f382-46a9-9bc5-30d20726bffc)
 - Sprint Review: Gezegen yer çekimi oluşturuldu. Gezegen ve atmosfer tasarlandı. Kayıt, login ve oda oluşturma sistemlerine başlandı. Karaktere hareket verildi.  Sprint Review katılımcıları: Emre Öngi, Enes Efe Tokta, Esmanur Yıldırım, Evsa Gökçe Renk
-- Sprint Retrospective: 
+- Sprint Retrospective: Ekip iletişiminin böyle devam etmesi gerektiğine ve Sprint birleştirmelerinin önümüzdeki sprintlerde daha erken tamamlanmasına karar verildi.
