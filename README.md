@@ -23,7 +23,7 @@ Dünyada tükenmiş olan önemli elementleri uzayda aramaları için gönderilen
 - Daily Scrum: Daily Scrum toplantıları en az 2 günde 1 olacak şekilde toplamda 8 buluşmada Discord uygulamasında tamamlandı.[Daily Scrum SS](https://drive.google.com/drive/folders/1_9plcyv1oVGDbBBv-yDOT4FwEr88BEwN?usp=sharing "Screen Shoots Sprint1")
 - Sprint board update: Sprint board screenshotları:
 
-![Sprint1](https://github.com/emreongi/Team20/assets/109675720/e6811276-a7aa-4eae-8f3b-62968edb7125)
+![Sprint1 (2)](https://github.com/emreongi/Team20/assets/109675720/b2ce8cbd-f592-465c-b879-d2ac98438202)
 ![Screenshot_2024-07-05_224743](https://github.com/emreongi/Team20/assets/109675720/0bbb80db-f69b-496b-a2a0-9442360da498)
 ![Screenshot_2024-07-05_225344](https://github.com/emreongi/Team20/assets/109675720/93b09543-5a69-44a7-bdf9-b2a9db165025)
 ![Screenshot 2024-07-05 221138](https://github.com/emreongi/Team20/assets/109675720/d451b119-e6ef-401e-a7ef-726526233bd8)
