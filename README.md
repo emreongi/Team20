@@ -10,6 +10,8 @@ Shinars
 | **Evsa Gökçe Renk**     | Designer  |
 # Ürün İsmi
 The Other Planets
+# Product Backlog URL
+[Sprint1 Backlog](https://www.notion.so/c572d9815f9049f8a47719f36bf6dfee?v=bcf54549d02d4de393e099540cbe9c16&pvs=4 "Sprint1 Notion")
 # Ürün Açıklaması
 Dünyada tükenmiş olan önemli elementleri uzayda aramaları için gönderilen 5 kişilik bir keşif birliği, önlerine çıkan bütün engelleri aşarak elementleri dünyaya ulaştırmak zorundadırlar. Uğradıkları gezegenlerde birçok farklı yoldan düşmanları atlatarak elementleri toplamaları gerekmektedir. Çevrimiçi bir şekilde karşılarına çıkan düşmanları altetmeye çalışacak olan ekip zorlu şartları atlatıp dünyaya dönmeleri gerekmektedir.
 -	Keşif: Oyuncular, gezegenlerde saklanmış olan elementleri bulmalıdırlar.
@@ -18,7 +20,7 @@ Dünyada tükenmiş olan önemli elementleri uzayda aramaları için gönderilen
 # Sprint1
 - Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-- Daily Scrum: Daily Scrum toplantıları en az 2 günde 1 olacak toplamda 7 buluşmada gerçekleştirildi.
+- Daily Scrum: Daily Scrum toplantıları en az 2 günde 1 olacak şekilde toplamda 8 buluşmada Discord uygulamasında tamamlandı.[Daily Scrum SS](https://drive.google.com/drive/folders/1_9plcyv1oVGDbBBv-yDOT4FwEr88BEwN?usp=sharing "Screen Shoots Sprint1")
 - Sprint board update: Sprint board screenshotları:
 
 ![Sprint1](https://github.com/emreongi/Team20/assets/109675720/e6811276-a7aa-4eae-8f3b-62968edb7125)
