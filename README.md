@@ -19,7 +19,7 @@ Dünyada tükenmiş olan önemli elementleri uzayda aramaları için gönderilen
 -	Kaynak Yönetimi: Sınırlı kaynakları (su, yiyecek, yakıt) yöneterek gemilerini ve mürettebatlarını hayatta tutmaya çalışırlar.
 -	Savaş: Uzaylı  çatışmaları.
 # **Sprint1**
-- Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan **Tamamlanan puan:** 100 Puan
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 - Daily Scrum: Daily Scrum toplantıları en az 2 günde 1 olacak şekilde toplamda 8 buluşmada Discord uygulamasında tamamlandı.[Daily Scrum SS](https://drive.google.com/drive/folders/1_9plcyv1oVGDbBBv-yDOT4FwEr88BEwN?usp=sharing "Screen Shoots Sprint1")
 - Sprint board update: Sprint board screenshotları:
@@ -32,7 +32,7 @@ Dünyada tükenmiş olan önemli elementleri uzayda aramaları için gönderilen
 - Sprint Review: Gezegen yer çekimi oluşturuldu. Gezegen ve atmosfer tasarlandı. Kayıt, login ve oda oluşturma sistemlerine başlandı. Karaktere hareket verildi.  Sprint Review katılımcıları: Emre Öngi, Enes Efe Tokta, Esmanur Yıldırım, Evsa Gökçe Renk
 - Sprint Retrospective: Ekip iletişiminin böyle devam etmesi gerektiğine ve Sprint birleştirmelerinin önümüzdeki sprintlerde daha erken tamamlanmasına karar verildi.
 # **Sprint2**
-- Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan **Tamamlanan puan:** 89 Puan
 - Daily Scrum: Daily Scrum toplantıları en az 2 günde 1 olacak şekilde toplamda 8 buluşmada Discord uygulamasında tamamlandı.[Daily Scrum SS](https://drive.google.com/drive/folders/1_9plcyv1oVGDbBBv-yDOT4FwEr88BEwN?usp=sharing "Screen Shoots Sprint1")
 - Sprint board update: Sprint board screenshotları:
 ![Sprint2](https://github.com/user-attachments/assets/33754c48-a0a7-4e23-b460-a3366368389f)
