@@ -1,5 +1,8 @@
 # Team20
 **Shinars**
+
+ ![Group 1321314562](https://github.com/user-attachments/assets/876acc15-780d-41e8-86ab-7eb5955da3c3)
+
 # Ürün İle İlgili Bilgiler
 ## Takım Elemanları
 | İsim   | Ünvan  |
@@ -10,14 +13,16 @@
 | **Evsa Gökçe Renk**     | Designer  |
 # Ürün İsmi
 **The Other Planets**
+![Shinars Oyun Kapak görseli](https://github.com/user-attachments/assets/f344acaf-ad5f-408a-924e-e9f57c55c504)
+
 # Product Backlog URL
 - [Sprint1 Backlog](https://www.notion.so/c572d9815f9049f8a47719f36bf6dfee?v=bcf54549d02d4de393e099540cbe9c16&pvs=4 "Sprint1 Notion")
 - [Sprint2 Backlog](https://www.notion.so/d2748d770f4142f8b50a6cd473522547?v=34d7901077704d6ca9051e1d84065f17&pvs=4 "Sprint2 Notion")
 # Ürün Açıklaması
 Dünyada tükenmiş olan önemli elementleri uzayda aramaları için gönderilen 5 kişilik bir keşif birliği, önlerine çıkan bütün engelleri aşarak elementleri dünyaya ulaştırmak zorundadırlar. Uğradıkları gezegenlerde birçok farklı yoldan düşmanları atlatarak elementleri toplamaları gerekmektedir. Çevrimiçi bir şekilde karşılarına çıkan düşmanları altetmeye çalışacak olan ekip zorlu şartları atlatıp dünyaya dönmeleri gerekmektedir.
 -	Keşif: Oyuncular, gezegenlerde saklanmış olan elementleri bulmalıdırlar.
--	Kaynak Yönetimi: Sınırlı kaynakları (su, yiyecek, yakıt) yöneterek gemilerini ve mürettebatlarını hayatta tutmaya çalışırlar.
--	Savaş: Uzaylı  çatışmaları.
+-	Kaynak Yönetimi: Sınırlı oksijenlerini yöneterek kendilerini ve mürettebatlarını hayatta tutmaya çalışırlar.
+-	Savaş: Uzaylı çatışmaları.
 # **Sprint1**
 - **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan **Tamamlanan puan:** 100 Puan
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
